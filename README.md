@@ -7,8 +7,8 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 - [**Ementa e Programa da Disciplina**]()
  
 [Aula 1]() - Introdução à Programação
- - [Slides](https://github.com/profmathias/cet-635/blob/d183f5630ae1750bad4c77e5f9847c91c452784d/Aula-01/slides.pdf)
- - [Gravação da Aula]()
- - [Texto e Códigos]()
- - [Exercícios]() 
+ - [Slides](https://www.icloud.com/iclouddrive/0jD4-Ijz5y5Pr3dmQg1rq2ApQ#Aula-01)
+ - [Gravação da Aula](https://drive.google.com/file/d/13YGTUFErQx4TwkdHKtL6BIvzCvVRCD2w/view?usp=sharing)
+ - [Código de Exemplo](https://replit.com/@mathiasbrito/LP1-Ex1#main.c)
+ - [Exercícios](https://www.icloud.com/iclouddrive/0gacIDViAYysGXeY97UBoYoow#Aula-01) 
          
