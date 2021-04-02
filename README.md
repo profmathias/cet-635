@@ -5,9 +5,15 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 - [**Ementa e Programa da Disciplina**]()
- 
+
+- [Aula 3]() - Operadores Lógicos e Estruturas de Seleção - if, if...else
+    - [Slides](https://www.icloud.com/iclouddrive/06ND34DKeayMtXaNPoPLTWP1g#Aula-03)
+    - [Gravação da Aula](https://drive.google.com/file/d/1PRb2ouzX8_z7mlfZT0v65be47ZjXtsOl/view?usp=sharing)
+    - **Execícios URI**:
+    [1040](https://www.urionlinejudge.com.br/judge/pt/problems/view/1040),
+    [1043](https://www.urionlinejudge.com.br/judge/pt/problems/view/1043)
 - [Aula 2]() - Operadores Aritméticos e Relacionais
-    - [Slides](https://www.icloud.com/iclouddrive/0XKfyUHGMxyJam0orHxb33bKA#Aula-03)
+    - [Slides](https://www.icloud.com/iclouddrive/0XKfyUHGMxyJam0orHxb33bKA#Aula-02)
     - [Gravação da Aula](https://drive.google.com/file/d/1QE-ejMie53vgSX4z-jhwb3YZvv8U1Cwr/view?usp=sharing)
     - Exercícios URI: [1002](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002), 
     [1004](https://www.urionlinejudge.com.br/judge/pt/problems/view/1004),
