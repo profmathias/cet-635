@@ -6,7 +6,8 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 - [**Ementa e Programa da Disciplina**]()
 
-- **[Lista de Exercícios 1: Expressões e Estruturas de Seleção]()**
+- **Lista de Exercícios 1: Expressões e Estruturas de Seleção**
+    - **Entrega: 23/04**
     - Resolva os seguintes problemas do URI listados abaixo:
         - [1009: Salário com Bônus](https://www.urionlinejudge.com.br/judge/pt/problems/view/1009),
         [1010: Cálculo Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1010),
