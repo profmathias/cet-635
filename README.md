@@ -6,6 +6,13 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 - [**Ementa e Programa da Disciplina**]()
 
+- [Aula 6]() - Estruturas de Repetição: "while" e "do ... while" 
+    - [Slides](https://www.icloud.com/iclouddrive/0RtwcShOH1p7aq2tlFdkiGAEA#Aula-05)
+    - [Gravação da Aula](https://drive.google.com/file/d/1HYJDMCFaLSgW5cvkTPp6dPOXyZuQ1ZRA/view?usp=sharing)
+    - Exercícios URI: [1066: Pares, Ímpares, Positivos e Negativos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066);
+    [1078: Tabuada](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078);
+    [1095: Sequência IJ 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095)
+- [Aula 5]()
 - **Lista de Exercícios 1: Expressões e Estruturas de Seleção**
     - **Entrega: 23/04**
     - Resolva os seguintes problemas do URI listados abaixo:
