@@ -6,6 +6,23 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 - [**Ementa e Programa da Disciplina**]()
 
+- [Aula 7]() - Estrutura de Repetição - `for` básico
+    - [Slides](https://www.icloud.com/iclouddrive/007HW0QQW1hEg8dZnweOXTyDA#Aula-6)
+    - [Gravação da Aula](https://drive.google.com/file/d/1zZxcUfy6JifQLKAGYw7nS_qZEzHoS7ny/view?usp=sharing)
+    - **Exercícios Propostos (URI):** [1078: Tabuada](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078),
+    [1172: Substituição em Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1172),
+    [1173: Preenchimento de Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1173),
+    [1175: Troca em Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1175)
+    
+    
+- [Aula 6]() - Prática com `while` e `do while`
+    - Organizado em duplas os alunos devem realizar os exercícios do URI listados abaixo referentes ao assunto da aula 
+    anterior. Os exercícios não resolvidos em sala de aula deverão ser realizados em casa.
+        - **Exercícios Propostos (URI):** [1099: Soma de ímpares consecutivos II](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099),  
+        [1132: Múltiplos de 13](https://www.urionlinejudge.com.br/judge/pt/problems/view/1132),
+        [1113: Crescente e Decrescente](https://www.urionlinejudge.com.br/judge/pt/problems/view/1113)
+        
+
 - [Aula 5]() - Estruturas de Repetição: "while" e "do ... while" 
     - [Slides](https://www.icloud.com/iclouddrive/0RtwcShOH1p7aq2tlFdkiGAEA#Aula-05)
     - [Gravação da Aula](https://drive.google.com/file/d/1HYJDMCFaLSgW5cvkTPp6dPOXyZuQ1ZRA/view?usp=sharing)
