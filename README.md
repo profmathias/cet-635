@@ -6,6 +6,12 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 - [**Ementa e Programa da Disciplina**]()
 
+- [Aula 9]() - **Avaliação 1 - Parte 1**
+- [Aula 8]() - Resolução de Exercícios e Revisão para a Avaliação
+    - **Exercícios Propostos (URI):** [1118: Cédulas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018),
+    [1142: PUM](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142), alunos ficaram então livres
+    para escolher outros exercícios para resolver.
+
 - [Aula 7]() - Estrutura de Repetição - `for` básico
     - [Slides](https://www.icloud.com/iclouddrive/007HW0QQW1hEg8dZnweOXTyDA#Aula-6)
     - [Gravação da Aula](https://drive.google.com/file/d/1zZxcUfy6JifQLKAGYw7nS_qZEzHoS7ny/view?usp=sharing)
