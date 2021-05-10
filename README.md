@@ -5,7 +5,11 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 - [**Ementa e Programa da Disciplina**]()
-
+- [Aula 12]() - **for, vetore e matrizes**
+    - [Slides](https://drive.google.com/file/d/1AZ4PzjakPm5RlzcYrSr4N3pxBQf060R7/view?usp=sharing)
+    - [Gravação da Aula](https://drive.google.com/file/d/1aakXm-mBndC54OZay6t6bCrwYte7ztlO/view?usp=sharing) 
+- [Aula 11]() - **Revisão Geral dos assuntos vistos até aqui**
+- [Aula 10]() - **Avaliação 1 - Parte 2**
 - [Aula 9]() - **Avaliação 1 - Parte 1**
 - [Aula 8]() - Resolução de Exercícios e Revisão para a Avaliação
     - **Exercícios Propostos (URI):** [1118: Cédulas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018),
