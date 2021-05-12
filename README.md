@@ -5,7 +5,45 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 - [**Ementa e Programa da Disciplina**]()
-- [Aula 12]() - **for, vetore e matrizes**
+- [Aula 13]() - **Exercícios com Matrizes**
+    1. Declare duas matrizes 4x4 e inicia-as com valores de sua escolha. Imprima na tela uma 
+    matriz que seja a soma das duas matrize. **Dica:** Não precisa cruar uma terceira matriz
+    para o resultado. Use o conceito de soma de matrizes do ensino médio.
+    2. Em uma matriz 7x3 são registradas em cada linha as temperaturas da manhã,
+    da tarde e da noite em um dia. Cada linha representa um dia, cada coluna um
+    período. Declare uma matriz 7x3 e inicie-a com valores de sua preferência. O
+    programa deverá imprimir na tela a média de temperatura de cada dia, a média
+    de temperatura da manhã, tarde e noite durante a semana. **Dica** some os valores
+    das linhas e divida por 3 para ter a média diaria. Some os valores de uma coluna 
+    e divida por 7 para ter a média de um período na semana.
+    3. Dada uma matriz quadrada 3x3 pergunte ao usuário os valores de cada célula,
+     calcule então a soma dos elementos da diagonal principal e da diagonal 
+     secundária da matriz.
+    4. Um viajante vai a Salvador todas as semanas em um mês. Ele registra
+    os minutos passados entre algumas cidades. Saindo de Itabuna, ele marca
+    o primeiro valor em Ubaitaba, por exemplo 70 minutos. Depois ele registra
+    o tempo de Ubaitaba até Gandú, por exemplo 50 minutos. Depois ele registra
+    de Gandú a Santo Antônio de Jesus e depois até Salvador. O tempo total
+    da viagem é a soma dos registros desses tempos. Escreva um programa que 
+    registre cada viagem (com os trechos indicados, 4 no total) durante todo
+    o mês (4 viagens no mês) em uma matriz 4x4. Você pode iniciar a matriz com 
+    valores pré-definidos ao invés de ler do teclado. O seu programa deve imprimir
+    na tela as seguintes informações:
+        - O tempo total da viagem mais longa
+        - O tempo total da viagem mais curta
+        - O tempo médio que o viajante leva para ir a Salvador no mês.
+    5. Uma foto é representada em um computador como uma matriz de cores.
+    Crie uma matriz 4x4 representando uma imagem, onde cada célula é uma cor.
+    Obviamente a imgem é muito precária, pois a resolução é baixa pois não
+    podemos representar uma imagem complexa com apenas 16 pontos. Imagem tosca
+    filtro tosco. Um calouro de computação resolve criar um filtro para essa
+    imagem para entender como funciona o processo de aplicação de filtros em
+    uma imagem. Ele então resolve aplicar a seguinte função a cada ponto da imagem:
+        - Se o valor da cor é < 100 ele duplica o valor.
+        - Se o valor da cor é > 100 ele divede o valor por 2.
+    Imprima na tela os valores finais das imagens.
+    
+- [Aula 12]() - **for, vetores e matrizes**
     - [Slides](https://drive.google.com/file/d/1AZ4PzjakPm5RlzcYrSr4N3pxBQf060R7/view?usp=sharing)
     - [Gravação da Aula](https://drive.google.com/file/d/1aakXm-mBndC54OZay6t6bCrwYte7ztlO/view?usp=sharing) 
 - [Aula 11]() - **Revisão Geral dos assuntos vistos até aqui**
