@@ -10,6 +10,12 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
     - [Slides](https://www.icloud.com/iclouddrive/0HlD61vC9y0raFszoP--fV_nA#Aula_-_Strings)
     - [Gravação da Aula](https://drive.google.com/file/d/1livt0tfHn3iqtZxnP05Fp7eS8fdVd1yF/view?usp=sharing)
     - [Exemplos](https://github.com/profmathias/cet-635/tree/master/strings)
+    - **Exercícios Propostos:**
+        1. Escreva um programa que leia um nome em uma string e imprima o nome invertido.
+        2. Dada uma string, verifique se a string é um palindromo (palavra que quando invertida 
+        forma a mesma palavra), ex. "asa".
+        3. Um professor possui uma fobia por vogais, ele decide então fazer um programa que substitui
+        todas as vogais de um texto da seguinte forma `[a->b, e->f, i->j, o->p, u->v].` Escreva o programa igual ao do professor. 
 - [Aula 13]() - **Exercícios com Matrizes**
     1. Declare duas matrizes 4x4 e inicia-as com valores de sua escolha. Imprima na tela uma 
     matriz que seja a soma das duas matrize. **Dica:** Não precisa cruar uma terceira matriz
