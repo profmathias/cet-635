@@ -6,6 +6,19 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 - [**Ementa e Programa da Disciplina**]()
 
+
+- [Aula 15]() - **Alocação Dinâmica Básica**
+    - [Slides](https://www.icloud.com/iclouddrive/0SapkJjmFacF9uMMHhoTUWQWg#Aula-15)
+    - [Gravação da Aula](https://drive.google.com/file/d/15anbn9IbEyGfMZ2f_g4uCk9_0iTQgo87/view?usp=sharing)
+    - **Exercícios Propostos:**
+        - Leia do usuário a quantida de linhas e colunas de uma matriz. Crie duas matrizes
+          conforme as especificações dadas pelo usuários. Logo após leia os valores
+          de cada elemento destas matrizes. Imprima na tela a soma das duas matrizes.
+  
+        - [URI: 2162 - Picos e Vales](https://www.urionlinejudge.com.br/judge/pt/problems/view/2162)
+            - Armazenem os valores em um vetor dinâmico antes de fazer os  cálculos.
+            - Modifique a sua solução de modo que ele não necessite do vetor armazenado.
+            - Qual das duas soluções vocês consideram mais eficientes.
 - [Aula 14]() - **Strings**
     - [Slides](https://www.icloud.com/iclouddrive/0HlD61vC9y0raFszoP--fV_nA#Aula_-_Strings)
     - [Gravação da Aula](https://drive.google.com/file/d/1livt0tfHn3iqtZxnP05Fp7eS8fdVd1yF/view?usp=sharing)
