@@ -6,7 +6,18 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 - [**Ementa e Programa da Disciplina**]()
 
-
+- [Aula 17]() - **Resolução de Problemas - Exemplo prático com o prob. 2162 picos e vales do URI
+    - [Slides](https://www.icloud.com/iclouddrive/0xYpa9rmm_MW24WPBqwnZoAVw#Aula-17)
+    - [Gravação da Aula](https://drive.google.com/file/d/146RVfweVpAaV_BB7UtIO3hEuNYOI81Jm/view?usp=sharing)
+    - **Exercícios Propostos (URI)**
+        - [**1803 - Matring (Para próxima aula)**](https://discord.com/channels/763509738951540786/821428701165781053/848994112043614328)
+        - [1181 - Linha na Matriz](https://www.urionlinejudge.com.br/judge/pt/problems/view/1181)
+        - [1175 - Troca em Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1175)
+        - [1180 - Menor e Posição](https://www.urionlinejudge.com.br/judge/pt/problems/view/1180)
+- [Aula 16]() - **Fluxogramas**
+    - [Slides](https://www.icloud.com/iclouddrive/012mBOgaofWv-hEPTReXBXpXQ#Aula-16)
+    - [Gravação da Aula](https://drive.google.com/file/d/1I3sQL5MnNFzbuhpdtjCs0dSTEnv8jV9H/view?usp=sharing)
+    - **Exercícios Proposts:** Enunciado nos Slides.
 - [Aula 15]() - **Alocação Dinâmica Básica**
     - [Slides](https://www.icloud.com/iclouddrive/0SapkJjmFacF9uMMHhoTUWQWg#Aula-15)
     - [Gravação da Aula](https://drive.google.com/file/d/15anbn9IbEyGfMZ2f_g4uCk9_0iTQgo87/view?usp=sharing)
