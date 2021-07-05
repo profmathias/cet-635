@@ -7,6 +7,7 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 - [**Ementa e Programa da Disciplina**]()
 
 - [Aula 22]() - Compiladores, IDEs e Debugger **(Lista de Exercício para Última Avaliação)**
+    - [Gravação da Aula](https://drive.google.com/file/d/1gjZGoz0YGW2wHsygc3kTWlKgCeIikyeU/view?usp=sharing)
     - **Lista:** 
         - [3209 - Tomadas Elétricas](https://www.urionlinejudge.com.br/judge/pt/problems/view/3209),
         - [3076 - Exercício de História](https://www.urionlinejudge.com.br/judge/pt/problems/view/3076),
@@ -20,6 +21,7 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
         - [2450 - Matriz Escada](https://www.urionlinejudge.com.br/judge/pt/problems/view/2450),
         - [1426 - Coloque Tojolos na Parede](https://www.urionlinejudge.com.br/judge/pt/problems/view/1426)
 - [Aula 21]() - Correção da Prova
+    - [Gravação da Aula](https://drive.google.com/file/d/1YA2k_y3baAU__DBeZR4g7FW6xMlKHZsg/view?usp=sharingõe)
 - [Aula 20]() - Simulado 2
 - [Aula 19]() - #
 - [Aula 18]() - Simulado 1
