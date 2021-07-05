@@ -7,17 +7,18 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 - [**Ementa e Programa da Disciplina**]()
 
 - [Aula 22]() - Compiladores, IDEs e Debugger **(Lista de Exercício para Última Avaliação)**
-    **Lista: ** [3209 - Tomadas Elétricas](https://www.urionlinejudge.com.br/judge/pt/problems/view/3209),
-    [3076 - Exercício de História](https://www.urionlinejudge.com.br/judge/pt/problems/view/3076),
-    [3046 - Dominó](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046),
-    [3037 - Jogando Dardos Por Distância](https://www.urionlinejudge.com.br/judge/pt/problems/view/3037),
-    [3142 - Excel Bugado](https://www.urionlinejudge.com.br/judge/pt/problems/view/3142),
-    [1257 - Array Hash](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257),
-    [1367 - Ajude!](https://www.urionlinejudge.com.br/judge/pt/problems/view/1367),
-    [1737 - Etaoin Shrdlu](https://www.urionlinejudge.com.br/judge/pt/problems/view/1737),
-    [2153 - Sanduicheiche](https://www.urionlinejudge.com.br/judge/pt/problems/view/2153),
-    [2450 - Matriz Escada](https://www.urionlinejudge.com.br/judge/pt/problems/view/2450),
-    [1426 - Coloque Tojolos na Parede](https://www.urionlinejudge.com.br/judge/pt/problems/view/1426)
+    - **Lista:** 
+        - [3209 - Tomadas Elétricas](https://www.urionlinejudge.com.br/judge/pt/problems/view/3209),
+        - [3076 - Exercício de História](https://www.urionlinejudge.com.br/judge/pt/problems/view/3076),
+        - [3046 - Dominó](https://www.urionlinejudge.com.br/judge/pt/problems/view/3046),
+        - [3037 - Jogando Dardos Por Distância](https://www.urionlinejudge.com.br/judge/pt/problems/view/3037),
+        - [3142 - Excel Bugado](https://www.urionlinejudge.com.br/judge/pt/problems/view/3142),
+        - [1257 - Array Hash](https://www.urionlinejudge.com.br/judge/pt/problems/view/1257),
+        - [1367 - Ajude!](https://www.urionlinejudge.com.br/judge/pt/problems/view/1367),
+        - [1737 - Etaoin Shrdlu](https://www.urionlinejudge.com.br/judge/pt/problems/view/1737),
+        - [2153 - Sanduicheiche](https://www.urionlinejudge.com.br/judge/pt/problems/view/2153),
+        - [2450 - Matriz Escada](https://www.urionlinejudge.com.br/judge/pt/problems/view/2450),
+        - [1426 - Coloque Tojolos na Parede](https://www.urionlinejudge.com.br/judge/pt/problems/view/1426)
 - [Aula 21]() - Correção da Prova
 - [Aula 20]() - Simulado 2
 - [Aula 19]() - #
