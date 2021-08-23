@@ -4,6 +4,17 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
+- [Aula 3]() - URI e Maratona de Exercícios 1
+  - [Gravação da Aula](https://drive.google.com/file/d/1RlEvbaOUE9XT7nJ9NS9qrA8m-yWcFxMU/view?usp=sharing)
+  - [Slides](https://www.icloud.com/iclouddrive/0r5acmaxEuuuDv5XKtLYCNz9Q#Aula-02-io_e_operacoes_artimeticas)
+  - [URI Onlin e Judge](https://www.urionlinejudge.com.br/judge/pt/login)
+    - **1. Exercícios da Maratona**: ATENÇÃO - TRAZER NA PROX. AULA 25/08
+        1. [Salário com Bônus](https://www.urionlinejudge.com.br/judge/pt/problems/view/1009)
+        2. [Esfera](https://www.urionlinejudge.com.br/judge/pt/problems/view/1011)
+        3. [Gasto de Combustível](https://www.urionlinejudge.com.br/judge/pt/problems/view/1017)
+        4. [Idade em Dias](https://www.urionlinejudge.com.br/judge/pt/problems/view/1020)
+        5. [Notas e Moedas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1021)
+        6. [Conversão de Tempo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1019)        
 - [Aula 2]() - Váriáveis e Constantes e os seus Tipos
   - [Slides](https://www.icloud.com/iclouddrive/0VhzV_yQtfcWYOgUN_9LDVYrw#Aula-01)
   - [Gravação da Aula](https://drive.google.com/file/d/1Vnx_7Itil5bXfmuxO0ITjKmySB6KbS51/view?usp=sharing)
