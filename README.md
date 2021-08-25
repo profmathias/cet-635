@@ -4,6 +4,14 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
+
+- [Aula 4]() - Correção de Exercícios e Esclarecimento de Dúvidas
+  - [Gravação da Aula](https://drive.google.com/file/d/1uOlgKfX2ff-Di7_BxARcJWb97jdCU26U/view?usp=sharing)
+  - **1. Exercícios para entrega**: ATENÇÃO DEPÓSITO NA AULA 30/08
+    1. [Diferença](https://www.urionlinejudge.com.br/judge/pt/problems/view/1007)
+    2. [Distância Entre Dois Pontos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1015)
+    3. [Cédulas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1018)
+   
 - [Aula 3]() - URI e Maratona de Exercícios 1
   - [Gravação da Aula](https://drive.google.com/file/d/1RlEvbaOUE9XT7nJ9NS9qrA8m-yWcFxMU/view?usp=sharing)
   - [Slides](https://www.icloud.com/iclouddrive/0r5acmaxEuuuDv5XKtLYCNz9Q#Aula-02-io_e_operacoes_artimeticas)
