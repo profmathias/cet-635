@@ -5,6 +5,15 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 
+- [Aula 5]() - Expressões e Estrutra de Seleção `if`
+  - [Slides](https://www.icloud.com/iclouddrive/0zOpZjJGuuKae0mzERo2ZPiLw)
+  - [Gravação da Aula](https://drive.google.com/file/d/1Mw6BA53JwoZ6rQk0ghJjeszPuzpZu8Wq/view?usp=sharing)
+  - **1. Exercícios para a Próxima Aula**
+    1. [O Maior](https://www.urionlinejudge.com.br/judge/pt/problems/view/1013)
+    2. [Lanche](https://www.urionlinejudge.com.br/judge/pt/problems/view/1038)
+    3. [Triângulo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1043)
+    4. [Aumento de Salário](https://www.urionlinejudge.com.br/judge/pt/problems/view/1048)
+   
 - [Aula 4]() - Correção de Exercícios e Esclarecimento de Dúvidas
   - [Gravação da Aula](https://drive.google.com/file/d/1uOlgKfX2ff-Di7_BxARcJWb97jdCU26U/view?usp=sharing)
   - **1. Exercícios para entrega**: ATENÇÃO DEPÓSITO NA AULA 30/08
