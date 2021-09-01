@@ -5,6 +5,32 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 
+- [Aula 6]() - Correção dos Exercício da Aula 5 e Exercício em Sala (Discord)
+  - [Gravação da Aula](https://drive.google.com/file/d/1E2kLGgpiyYCo14QEdHMm23yurHMGto0a/view?usp=sharing)
+  - **Exercício feito em aula (Discord)**
+  - Você foi contratado para fazer o sistema de pedidos da lanchonete McJonald’s. Ele irá rodar 
+  em um computador na entrada e quando os clientes entrarem vão fazer o pedido através dela, 
+  o sistema será desenvolvido por você. Ao iniciar o programa, a primeira coisa que irá 
+  ser perguntada ao cliente é se ele faz parte do programa de fidelidade, respondendo ’s’ para sim ou ’n’ 
+  para não e guarda essa informação. O cliente então devera na sequência escolher, um sanduíche, 
+  um acompanhamento (batata, onion rings, salada, etc.), uma bebida e uma sobremesa. Cada um desses 
+  produtos possui um valor diferente. Ao final o programa irá imprimir um Sub-Total 1, o valor total 
+  da compra sem desconto e o Total, que é o valor com 10% de desconto caso o cliente tenha afirmado que 
+  faz parte do programa de fidelidade. Veja o exemplo abaixo:
+    ```
+    Você faz parte do programa de fidelidade.
+    -> s
+    Qual sanduíche vc quer?
+    1. x
+    2. y.
+    3. z
+    
+    .. segue menus semelhantes para os demais produtos.
+    
+    Sub-Total: 30.00
+    Sub-Total: 27.00 (desconto de 10%)
+    ```
+
 - [Aula 5]() - Expressões e Estrutra de Seleção `if`
   - [Slides](https://www.icloud.com/iclouddrive/0zOpZjJGuuKae0mzERo2ZPiLw)
   - [Gravação da Aula](https://drive.google.com/file/d/1Mw6BA53JwoZ6rQk0ghJjeszPuzpZu8Wq/view?usp=sharing)
