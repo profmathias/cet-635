@@ -5,6 +5,17 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 
+- [Aula 8 (Assíncrona)]() - Estruturas de Repetição: "while" e "do ... while"
+  - [Slides](https://www.icloud.com/iclouddrive/0RtwcShOH1p7aq2tlFdkiGAEA#Aula-05)
+  - [Vídeo da Aula (Gravação de 2020.1)](https://drive.google.com/file/d/1HYJDMCFaLSgW5cvkTPp6dPOXyZuQ1ZRA/view)
+  - Exercícios URI:
+      - [1078: Tabuada](https://www.urionlinejudge.com.br/judge/pt/problems/view/1078);
+      - [1095: Sequência IJ 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1095)
+  
+- [Aula 7]() - Últimos Exercícios de Estruturas de Seleção (Discord)
+  - **Exercício 1:** [Animal - Adaptação do problema 1049 - Animal do URI.](https://github.com/profmathias/cet-635/blob/master/exercicios/animal.md)
+  - **Exercícios do URI:** [1035: Teste de Seleção 1](https://www.urionlinejudge.com.br/judge/pt/problems/view/1035), [1066: Pares, Ímpares, Positivos e Negativos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1066)
+  
 - [Aula 6]() - Correção dos Exercício da Aula 5 e Exercício em Sala (Discord)
   - [Gravação da Aula](https://drive.google.com/file/d/1E2kLGgpiyYCo14QEdHMm23yurHMGto0a/view?usp=sharing)
   - **Exercício feito em aula (Discord)**
