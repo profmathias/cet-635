@@ -5,6 +5,13 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 
+- [Aula 9 (Assíncrona)]() - Prática com `while` e `do while`
+    - Organizado em duplas os alunos devem realizar os exercícios do URI listados abaixo referentes ao assunto da aula 
+    anterior. Os exercícios não resolvidos em sala de aula deverão ser realizados em casa.
+        - **Exercícios Propostos (URI):** [1099: Soma de ímpares consecutivos II](https://www.urionlinejudge.com.br/judge/pt/problems/view/1099),  
+        [1132: Múltiplos de 13](https://www.urionlinejudge.com.br/judge/pt/problems/view/1132),
+        [1113: Crescente e Decrescente](https://www.urionlinejudge.com.br/judge/pt/problems/view/1113)
+
 - [Aula 8 (Assíncrona)]() - Estruturas de Repetição: "while" e "do ... while"
   - [Slides](https://www.icloud.com/iclouddrive/0RtwcShOH1p7aq2tlFdkiGAEA#Aula-05)
   - [Vídeo da Aula (Gravação de 2020.1)](https://drive.google.com/file/d/1HYJDMCFaLSgW5cvkTPp6dPOXyZuQ1ZRA/view)
