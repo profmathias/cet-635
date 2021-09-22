@@ -5,6 +5,15 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 
+- [Aula 10] - Estrutura de Repetição `for` e correção de exercícios com `while`
+  - [Slides](https://www.icloud.com/iclouddrive/007HW0QQW1hEg8dZnweOXTyDA#Aula-6) 
+  - [Gravação da Aula](https://drive.google.com/file/d/1qh4YQynlPT-nOoNeGvZBqR-Y471r2KOx/view?usp=sharing)
+  - **Exercícios:** 
+    1. Ver os exercícios no slide.
+    2. Adapte os exercícios feitos na aula anterior que usavam while e
+       tente resolvê-los utilizando `for`.
+  
+
 - [Aula 9 (Assíncrona)]() - Prática com `while` e `do while`
     - Organizado em duplas os alunos devem realizar os exercícios do URI listados abaixo referentes ao assunto da aula 
     anterior. Os exercícios não resolvidos em sala de aula deverão ser realizados em casa.
@@ -48,7 +57,7 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
     Sub-Total: 30.00
     Sub-Total: 27.00 (desconto de 10%)
     ```
-
+    
 - [Aula 5]() - Expressões e Estrutra de Seleção `if`
   - [Slides](https://www.icloud.com/iclouddrive/0zOpZjJGuuKae0mzERo2ZPiLw)
   - [Gravação da Aula](https://drive.google.com/file/d/1Mw6BA53JwoZ6rQk0ghJjeszPuzpZu8Wq/view?usp=sharing)
