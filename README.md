@@ -5,6 +5,12 @@ Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da dis
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 
+- [Aula 11]() - Vetores e a estrutura `for`
+  - [Slides]()
+  - [Gravação da Aula](https://drive.google.com/file/d/1RCrUFnWnnFKswmOlKFXifKVRQYCSqovH/view?usp=sharing)
+    - **Exercícios:** [1172: Substituição em Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1172), 
+                      [1173: Preenchimento de Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1173)
+
 - [Aula 10]() - Estrutura de Repetição `for` e correção de exercícios com `while`
   - [Slides](https://www.icloud.com/iclouddrive/007HW0QQW1hEg8dZnweOXTyDA#Aula-6) 
   - [Gravação da Aula](https://drive.google.com/file/d/1qh4YQynlPT-nOoNeGvZBqR-Y471r2KOx/view?usp=sharing)
