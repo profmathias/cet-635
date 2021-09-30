@@ -14,7 +14,7 @@ Bem-vindo ao repositório de materiais didáticuos, exemplos e exercícios da di
   - [Gravação da Correção](https://drive.google.com/file/d/1D168-j3_kfyWLeBamI8d6QEKOCpTvBNb/view?usp=sharing)
 
 - [Aula 11]() - Vetores e a estrutura `for`
-  - [Slides]()
+  - [Slides](https://www.icloud.com/iclouddrive/0C4MJKJaDktSE5Lzftlk0q6EA#Aula-11)
   - [Gravação da Aula](https://drive.google.com/file/d/1RCrUFnWnnFKswmOlKFXifKVRQYCSqovH/view?usp=sharing)
     - **Exercícios:** [1172: Substituição em Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1172), 
                       [1173: Preenchimento de Vetor I](https://www.urionlinejudge.com.br/judge/pt/problems/view/1173)
