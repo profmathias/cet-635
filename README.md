@@ -1,9 +1,17 @@
 # Lingagem de Programação I (LPI)
 
-Bem-vindo ao repositório de materiais didáticos, exemplos e exercícios da disciplina LP I.
+Bem-vindo ao repositório de materiais didáticuos, exemplos e exercícios da disciplina LP I.
 
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
+
+- [Aula 12]() - Pratica de `for`
+  - **Exercícios:**
+    - [1177 - Preenchimento de Vetor II](https://www.urionlinejudge.com.br/judge/pt/problems/view/1177)
+    - [1067 - Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067)
+    - [1142 - PUM](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142)
+    - [1159 - Soma de Pares Consecutivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1159)
+  - [Gravação da Correção](https://drive.google.com/file/d/1D168-j3_kfyWLeBamI8d6QEKOCpTvBNb/view?usp=sharing)
 
 - [Aula 11]() - Vetores e a estrutura `for`
   - [Slides]()
