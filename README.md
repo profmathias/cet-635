@@ -5,13 +5,35 @@ Bem-vindo ao repositório de materiais didáticuos, exemplos e exercícios da di
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 
+- [Aula 13]() - Matrizes e Correção de Exercícios de `for`
+  - [Slides](https://www.icloud.com/iclouddrive/0Dr4ZAMZll4fLmq6XH8vAVSiQ#Aula-13-Matrizes)
+  - [Gravação das Aulas](https://drive.google.com/file/d/1kQWccuz4tSj2GaJasnU2-rDvqmQQ6-4z/view?usp=sharing)
+  - **Exercícios de Matrizes**
+    1. **Exercício 1** - *Declare duas matrizes 4x4 e inicia-as com valores 
+    de sua escolha. Imprima na tela uma matriz que seja a soma das duas matrizes. 
+    Dica: Não precisa criar uma terceira matriz para o resultado. Use o conceito
+    de soma de matrizes do ensino médio.*
+    2. **Exercício 2** - *Em uma matriz 7x3 são registradas em cada linha as temperaturas da manhã, 
+    da tarde e da noite em um dia. Cada linha representa um dia, cada coluna um 
+    período. Declare uma matriz 7x3 e inicie-a com valores de sua preferência. 
+    O programa deverá imprimir na tela a média de temperatura de cada dia, a média 
+    de temperatura da manhã, tarde e noite durante a semana. Dica some os valores 
+    das linhas e divida por 3 para ter a média diaria. Some os valores de uma 
+    coluna e divida por 7 para ter a média de um período na semana. Vocês podem iniciar
+    os valores da matriz diretamente da seguinte forma:*
+    ```c
+    int x[2][2] = { {1, 2}, {3, 4} };
+    ```
+    *Onde cada conjunto delimitado por chaves é uma linha, não precisa usar o `scanf`.*
+
+
 - [Aula 12]() - Pratica de `for`
   - **Exercícios:**
     - [1177 - Preenchimento de Vetor II](https://www.urionlinejudge.com.br/judge/pt/problems/view/1177)
     - [1067 - Números Ímpares](https://www.urionlinejudge.com.br/judge/pt/problems/view/1067)
     - [1142 - PUM](https://www.urionlinejudge.com.br/judge/pt/problems/view/1142)
     - [1159 - Soma de Pares Consecutivos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1159)
-  - [Gravação da Correção](https://drive.google.com/file/d/1D168-j3_kfyWLeBamI8d6QEKOCpTvBNb/view?usp=sharing)
+    - [Gravação da Correção](https://drive.google.com/file/d/1D168-j3_kfyWLeBamI8d6QEKOCpTvBNb/view?usp=sharing)
 
 - [Aula 11]() - Vetores e a estrutura `for`
   - [Slides](https://www.icloud.com/iclouddrive/0C4MJKJaDktSE5Lzftlk0q6EA#Aula-11)
