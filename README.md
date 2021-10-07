@@ -5,6 +5,35 @@ Bem-vindo ao repositório de materiais didáticuos, exemplos e exercícios da di
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 
+- [Aula 14]() - Revisão e Prática de Matrizes
+  - [Gravação da Aula](https://drive.google.com/file/d/1BHX5poJESnHk6k5madtd2N4lslO_jfkY/view?usp=sharing)
+  - **Exercícios para Entregar na Prox. Aula**
+    1. Dada uma matriz quadrada 3x3 pergunte ao usuário os valores de cada célula,
+         calcule então a soma dos elementos da diagonal principal e da diagonal
+         secundária da matriz.
+    2. Um viajante vai a Salvador todas as semanas em um mês. Ele registra
+       os minutos passados entre algumas cidades. Saindo de Itabuna, ele marca
+       o primeiro valor em Ubaitaba, por exemplo 70 minutos. Depois ele registra
+       o tempo de Ubaitaba até Gandú, por exemplo 50 minutos. Depois ele registra
+       de Gandú a Santo Antônio de Jesus e depois até Salvador. O tempo total
+       da viagem é a soma dos registros desses tempos. Escreva um programa que
+       registre cada viagem (com os trechos indicados, 4 no total) durante todo
+       o mês (4 viagens no mês) em uma matriz 4x4. Você pode iniciar a matriz com
+       valores pré-definidos ao invés de ler do teclado. O seu programa deve imprimir
+       na tela as seguintes informações:
+    - O tempo total da viagem mais longa
+    - O tempo total da viagem mais curta
+    - O tempo médio que o viajante leva para ir a Salvador no mês.
+    1. Uma foto é representada em um computador como uma matriz de cores.
+       Crie uma matriz 4x4 representando uma imagem, onde cada célula é uma cor.
+       Obviamente a imgem é muito precária, pois a resolução é baixa pois não
+       podemos representar uma imagem complexa com apenas 16 pontos. Imagem tosca
+       filtro tosco. Um calouro de computação resolve criar um filtro para essa
+       imagem para entender como funciona o processo de aplicação de filtros em
+       uma imagem. Ele então resolve aplicar a seguinte função a cada ponto da imagem:
+       - Se o valor da cor é < 100 ele duplica o valor.
+       - Se o valor da cor é > 100 ele divede o valor por 2.
+         Imprima na tela os valores finais das imagens.
 - [Aula 13]() - Matrizes e Correção de Exercícios de `for`
   - [Slides](https://www.icloud.com/iclouddrive/0Dr4ZAMZll4fLmq6XH8vAVSiQ#Aula-13-Matrizes)
   - [Gravação das Aulas](https://drive.google.com/file/d/1kQWccuz4tSj2GaJasnU2-rDvqmQQ6-4z/view?usp=sharing)
