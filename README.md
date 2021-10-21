@@ -5,6 +5,23 @@ Bem-vindo ao repositório de materiais didáticuos, exemplos e exercícios da di
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 
+- [Aula 17]() - Correção da Prova
+  - [Gravação da Aula](https://drive.google.com/file/d/1XiKqGOQCh2xfDulzQXD5q-cpSKOgJQPP/view?usp=sharing)
+  - **Exercício para Entregar em 25/10**
+    - [1187 - Área Superior](https://www.urionlinejudge.com.br/judge/pt/problems/view/1187)
+    - [1183 - Acima da Diagonal Principal](https://www.urionlinejudge.com.br/judge/pt/problems/view/1183)
+    - [1181 - Linha na Matriz](https://www.urionlinejudge.com.br/judge/pt/problems/view/1181)
+- [Aula 16]() - Prova
+  - **Questões da Prova**
+    - [1097 - Sequência IJ 3](https://www.urionlinejudge.com.br/judge/pt/problems/view/1097)
+    - [1115 - Quadrante](https://www.urionlinejudge.com.br/judge/pt/problems/view/1115)
+    - [1866 - Conta](https://www.urionlinejudge.com.br/judge/pt/problems/view/1866)
+    - [1174 - Seleção em Vetor](https://www.urionlinejudge.com.br/judge/pt/problems/view/1174)
+- [Aula 15]() - Simulado para a Prova
+  - **Questões do Simulado**
+    - [1080 - Maior e Posição](https://www.urionlinejudge.com.br/judge/pt/problems/view/1080)
+    - [3170 - Bolinhas de Natal](https://www.urionlinejudge.com.br/judge/pt/problems/view/3170)
+    - [3042 - Desviando de Árvores de Natal](https://www.urionlinejudge.com.br/judge/pt/problems/view/3042)
 - [Aula 14]() - Revisão e Prática de Matrizes
   - [Gravação da Aula](https://drive.google.com/file/d/1BHX5poJESnHk6k5madtd2N4lslO_jfkY/view?usp=sharing)
   - **Exercícios para Entregar na Prox. Aula**
