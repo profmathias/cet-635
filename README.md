@@ -5,6 +5,20 @@ Bem-vindo ao repositório de materiais didáticuos, exemplos e exercícios da di
 **Detalhes e Documentos da Disciplina**
 - **Horário** - Seg 13:30-16:00 / Qua 13:30-16:00
 
+- [Aula 18]() - Strings e Correção de Exercícios
+  - [Gravação da Aula (Strings em 58:20)](https://drive.google.com/file/d/1T-kv-jvgFKKChXjhLHOu_oFjPnD3TAJN/view?usp=sharing)
+  - [Tabela ASCII - Padrão para representação numérica de caracteres](https://pt.wikipedia.org/wiki/ASCII)
+  - [Slides](https://www.icloud.com/iclouddrive/09ERjKWPmtVBz7T5PJkM1Garg#Aula-18-Strings)
+  - **Exercícios**
+    1. Escreva um programa que leia uma string (char[1000]) e um caractere (char) . Imprima na tela o 
+       tamanho da string, para isso use strlen(variavel). Imprima também na tela o número de ocorrências 
+       do caractere digitado pelo usuário.
+    2. Escreva um programa que leia um nome em uma string e imprima o nome invertido.
+    3. Dada uma string, verifique se a string é um palindromo (palavra que quando invertida forma a mesma palavra), 
+       ex. "asa".
+    4. Um professor possui uma fobia por vogais, ele decide então fazer um programa que substitui todas as vogais de 
+       um texto da seguinte forma [a->b, e->f, i->j, o->p, u->v]. Escreva o programa igual ao do professor.
+
 - [Aula 17]() - Correção da Prova
   - [Gravação da Aula](https://drive.google.com/file/d/1XiKqGOQCh2xfDulzQXD5q-cpSKOgJQPP/view?usp=sharing)
   - **Exercício para Entregar em 25/10**
